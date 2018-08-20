@@ -1,6 +1,6 @@
 This project is initiated for HCL-HACKATHON.
 This APP aims at Automatic Attendence Record System.
-This was developed in order to need the reduce the burden of college Non-Teaching Staffs and instantaneous monitering of students by staff.
+This was developed in order to save time and instantaneous monitering of students by staff.
 ENVIRONMENT NEEDED:
            Windows OS
            Server
